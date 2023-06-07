@@ -4,7 +4,7 @@
 /*-----------------------壁纸-----------------------*/	
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //*--------------直播-----(/tv/zy.txt)-------------*/
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vYm95aGFwcHkvdHZib3gvcmF3L21hc3Rlci9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2JveWhhcHB5LzAwMDAvYmxvYi8xZWJiZTVlYmJlNzBmNmZmOTRiM2NlN2Y0NGY5ODZiMDVjNmQ1YzY3LzAwMDAudHh0"]}]}],
 /*-----------------------配置数据源-----------------------*/
 "sites":[
 {"key":"csp_如意4K","name":"🚀如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
